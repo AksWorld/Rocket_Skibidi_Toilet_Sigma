@@ -1,0 +1,16 @@
+body{
+    background-color: aliceblue;
+}
+#Score{
+    font-size: 20px;
+    float:left;
+    margin-left: 20px;
+}
+#Timer{
+    font-size:20px;
+    float:right;
+    margin-right: 20px;
+}
+#But_in_the_night_time_I_get_kinda_WILD{
+     color: brown;
+}
